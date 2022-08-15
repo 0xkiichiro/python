@@ -40,3 +40,13 @@ print(course.lower())
 
 print(course.find("P")) # => returns the first apperance index of the char. if it does not exist returns -1
 print(course.replace("beginners", "absolute beginners")) # => replaces first with second
+
+print("python" in course) # => this is a boolean expression meaning it will return true or false
+
+# len() => find length of string
+# course.upper() => convert uppercase
+# course.lower() => convert lowercase
+# course.title() => The title() method returns a string where the first character in every word is upper case.
+# course.find() => finds first index of the char
+# course.replace() => replaces chars
+# "..." in course => bool expression if its in the string or not
