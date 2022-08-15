@@ -1,0 +1,5 @@
+print("0xkiichiro")
+print("oi")
+print("o----")
+print(" |||| ")
+print("*" * 10)
